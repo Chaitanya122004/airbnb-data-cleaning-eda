@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Airbnb Data Cleaning and Exploratory Data Analysis
 
 ## Project Overview
